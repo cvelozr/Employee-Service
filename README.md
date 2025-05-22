@@ -46,3 +46,7 @@ http://localhost:8080/swagger-ui.html
 - Se encuentra configurada en modo persistente (no in-memory)
 - Se guarda en archivo `./data/employee-db.mv.db`
 - Ya incluye datos precargados para pruebas (Un empleado)
+
+## Clase test
+
+- Los test de Junit con Mockito se encuentran en la clase EmployeeControllerTest
